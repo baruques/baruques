@@ -28,7 +28,7 @@ Sou um desenvolvedor em formação com foco em **Blockchain**, **Rust** e **Sola
 
 ### 📫 Fale comigo:
 - 📧 baruquechou@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-baruque-109872161/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/baruques/)
 
 ---
 
