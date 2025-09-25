@@ -1,18 +1,20 @@
-# 👋 Olá! Eu sou o Gabriel Baruque
+### 👋 Hello! I'm Gabriel Baruque
 
-Sou um desenvolvedor em formação com foco em **Blockchain**, **Rust** e **Solana**. Estou mergulhando no ecossistema Web3 com projetos práticos e estudos voltados para segurança, contratos inteligentes e sistemas distribuídos.
-
----
-
-### 🚀 Em aprendizado contínuo:
-- 🦀 Desenvolvimento com **Rust** e programas on-chain na **Solana**
-- 🧱 Estrutura de contas, instruções e transações na Solana
-- 🔐 Fundamentos de **segurança cibernética** e **blockchain security**
-- ⚙️ Criação de projetos práticos com foco em Web3
+I am a developer in training with a focus on **Blockchain**, **Rust**, **Solana** and **Solidity**. I am diving into the Web3 ecosystem with practical projects and studies focused on security, smart contracts, and distributed systems.
 
 ---
 
-### 🛠️ Tecnologias que estou usando:
+### 🚀 Continuously learning:
+- 🦀 Developing with **Rust** and on-chain programs on **Solana**
+- 🧱 Solana account, instruction, and transaction structure
+- ⚙️ Creating and auditing smart contracts with **Solidity**
+- 🔐 Fundamentals of **cybersecurity** and **blockchain security**
+- 🐳 Orchestrating development environments with **Docker**
+- 🐍 Developing high-performance APIs with **FastAPI**
+
+---
+
+### 🛠️ Technologies I'm using:
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-3a0ca3?style=for-the-badge&logo=solana&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
@@ -24,8 +26,8 @@ Sou um desenvolvedor em formação com foco em **Blockchain**, **Rust** e **Sola
 
 ---
 
-### 📂 Repositórios em destaque:
-📌 *Em breve: projetos de Solana, scripts em Python e ferramentas de automação!*
+### 📂 Featured repositories:
+📌 *Coming soon: Solana projects, Python scripts, and automation tools!*
 
 ---
 
